@@ -1,0 +1,51 @@
+# Backend
+backend/build/
+backend/.gradle/
+backend/app/build/
+backend/.idea/
+backend/*.iml
+backend/local.properties
+
+# Dashboard
+dashboard/node_modules/
+dashboard/dist/
+dashboard/build/
+dashboard/.vite/
+dashboard/.env.local
+dashboard/.env.production.local
+
+# Android SDK
+android-sdk/.gradle/
+android-sdk/.idea/
+android-sdk/build/
+android-sdk/sdk/build/
+android-sdk/local.properties
+android-sdk/*.iml
+android-sdk/.cxx/
+android-sdk/captures/
+
+# Demo App
+demo-app/.gradle/
+demo-app/.idea/
+demo-app/build/
+demo-app/app/build/
+demo-app/local.properties
+demo-app/*.iml
+demo-app/.cxx/
+demo-app/captures/
+
+# Scripts
+scripts/node_modules/
+
+# General
+.DS_Store
+*.log
+*.swp
+*.bak
+*~
+.vscode/
+*.class
+
+# Database
+*.db
+*.sqlite

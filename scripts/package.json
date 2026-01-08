@@ -1,0 +1,11 @@
+{
+  "name": "fleet-test-data",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "send-data": "node send-heartbeats.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
