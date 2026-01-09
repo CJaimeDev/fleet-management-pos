@@ -1,8 +1,18 @@
-# 🏪 Fleet Management POS
+![Dashboard Preview](./screenshots/dashboard.png)
+### 🌐 Demo en Vivo
+[![Demo en Vivo](https://img.shields.io/badge/Demo-Live%20Preview-success?style=for-the-badge&logo=netlify)](https://fleet-management-pos.netlify.app/)
+# Fleet Management POS
 
 Sistema completo de monitoreo y gestión de terminales POS (Point of Sale) con dashboard web en tiempo real, backend REST API y SDK Android para integración en apps.
 
-![Dashboard Preview](./screenshots/dashboard.png)
+![Estado del Proyecto](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.0-7F52FF?style=flat-square&logo=kotlin)
+![React](https://img.shields.io/badge/React-18.2-61dafb?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)
+![Android](https://img.shields.io/badge/Android-7.0+-3DDC84?style=flat-square&logo=android)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)
 
 ## 📋 Tabla de Contenidos
 
